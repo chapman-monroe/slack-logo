@@ -16,12 +16,13 @@ body{
 	height: 70px;
 	border-radius: 40px;
 	position: absolute;
+	mix-blend-mode: darken;
 
 }
 
 .blue{
 	background-color: #72c5cd;
-	opacity: .7;
+	opacity: .8;
 	left: 0px;
 	top: 50px;
 	transform: rotate(-15deg);
@@ -34,13 +35,14 @@ body{
 	left: -55px;
 	top: 145px;
 	transform: rotate(75deg);
+	opacity: .8;
 
 
 }
 
 .red{
 	background-color: #ce1e5b;
-	opacity: .7;
+	opacity: .8;
 	top: 300px;
 	transform: rotate(-15deg);
 	left: 35px;
